@@ -27,7 +27,8 @@ These scripts are designed to allow the user to delete their current desktop bac
 <p>
 <b>Compatability:</b><br>
 <ul>
-<li>This script has only been tested on Windows 7. I cannot confirm that it works on any other version of Windows.
+<li>This script is confirmed to work on Windows 7.</li>
+<li>This script does <b>not</b> work on Windows 10 due to the new way of copying and converting an image prior to setting it as the background. There does not seem to be a way to get the path to the original background at this time.</li>
 </ul>
 </p>
 <p>
